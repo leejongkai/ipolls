@@ -13,3 +13,5 @@
 利用NTUSD比對詞彙的正向與負向，算出資料之意見傾向。
 
 ### Mysite is publish at https://leejongkai.github.io/ipolls/
+
+## 影片介紹https://goo.gl/fDmJNK
